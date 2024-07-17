@@ -13,6 +13,11 @@
   line-height: 30px;
 }
 
+.card__list {
+  padding: 0;
+  margin: 0;
+}
+
 .card__list-item {
   margin-top: 16px;
   margin-bottom: 0px;
