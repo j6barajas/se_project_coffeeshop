@@ -1,15 +1,10 @@
 # Triple Peaks Coffee Shop
 
-This is an introductory project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+This custom website for a sample coffee shop was an introductory project for Tripleten's Software Engineering program. 
 
-## Technical features
+## Technologies and Techniques
 
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transformation
+This site was structured with semantic HTML, and styling it provided great practice with CSS's flexbox and positioning properties. Notable features include <iframe> embedded Youtube recipes, a reservation form, and a CSS animation in the contact page.
 
 ## Images
 
@@ -20,7 +15,6 @@ This is an introductory project of the Software Engineering program at TripleTen
 ## Links
 
 Github pages: https://j6barajas.github.io/se_project_coffeeshop/
-Demo:
 
 ## Plans for improvement
 
