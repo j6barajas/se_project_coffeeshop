@@ -18,4 +18,4 @@ Github pages: https://j6barajas.github.io/se_project_coffeeshop/
 
 ## Plans for improvement
 
-A page with images of some of the menu items would add some personality to the site. Additionally, the form's functionality could be fully realized by creating a server.
+A page with images of some of the menu items would add some personality to the site. Additionally, the form's functionality could be fully realized by sending a confirmation email upon submission. 
